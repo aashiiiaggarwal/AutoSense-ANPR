@@ -1,4 +1,4 @@
-# 🚗 AutoSense — ANPR System (License Plate Recognition)
+# 🚗 AutoSense-ANPR System (License Plate Recognition)
 
 AutoSense is a modern **Automatic Number Plate Recognition (ANPR)** system built using **YOLOv8 + EasyOCR + Streamlit**.  
 It detects vehicle license plates from images and extracts the plate number with high confidence.
