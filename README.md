@@ -30,11 +30,11 @@ It detects vehicle license plates from images and extracts the plate number with
 
 ```
 AutoSense-ANPR/
-│── app.py                 # Main Streamlit app
+│── app101.py                 # Main Streamlit app
 │── anpr_best.pt           # Trained YOLO model weights
 │── requirements.txt       # Dependencies
 │── README.md              # Documentation
-│── sample_images/         # Test images (optional)
+│── ANPR_Training_Colab.ipynb         # Model Training
 ```
 
 ---
@@ -67,7 +67,7 @@ pip install -r requirements.txt
 ## ▶️ Run the App
 
 ```bash
-streamlit run app.py
+streamlit run app101.py
 ```
 
 ---
