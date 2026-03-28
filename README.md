@@ -1,7 +1,6 @@
 # 🚗 AutoSense-ANPR System (License Plate Recognition)
-
-AutoSense is a modern **Automatic Number Plate Recognition (ANPR)** system built using **YOLOv8 + EasyOCR + Streamlit**.  
-It detects vehicle license plates from images and extracts the plate number with high confidence.
+The AutoSense-ANPR system employs Automatic Number Plate Recognition technology which utilizes YOLOv8 EasyOCR and Streamlit software for its operation.
+The system identifies license plates from pictures and successfully retrieves the plate number with advanced accuracy.
 
 ---
 
@@ -10,9 +9,10 @@ It detects vehicle license plates from images and extracts the plate number with
 - 🔍 **Plate Detection** using YOLOv8
 - 🔤 **Text Recognition (OCR)** using EasyOCR
 - 🎨 **Modern Dark UI** (Cyberpunk-style Streamlit interface)
-- ⚡ Fast inference with optimized preprocessing
-- 📷 Supports JPG, PNG, WEBP uploads
-- 🧠 Multiple preprocessing techniques for better OCR accuracy
+- ⚡ The system processes data quickly because of its efficient initial stage evaluation
+- 📷 The system accepts image uploads in JPG PNG and WEBP formats
+- 🧠 The system uses various initial data analysis methods to enhance optical character recognition performance
+
 
 ---
 
